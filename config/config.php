@@ -1,2 +1,2 @@
 <?php
-$base_url = 'http://localhost/NTSAA/'; //URL utama website
+$base_url = 'http://localhost/SOFI/'; //URL utama website
